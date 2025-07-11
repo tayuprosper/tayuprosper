@@ -39,9 +39,8 @@ My goal is to become a world-class **system-level software engineer**, with a st
 
 ## 📫 Let's Connect!
 
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace this)*
-- 🧠 [Blog](https://your-blog.com) *(optional if you publish tutorials)*
-- 📧 tayuprosper@example.com *(or just say available via GitHub)*
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 tayuprosper2@gmail.com 
 
 ---
 
